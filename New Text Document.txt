@@ -1,0 +1,57 @@
+Project Design
+ABOUT:
+The system of a properly maintained Appointment System work involves a lot of important
+decisions that should be made in the most reliable and quicker ways. Nowadays, it is hard to
+implement it without a distinct hospital management system due to all the complexities faced in
+getting an appointment causing a massive delay in time and work. The system present here is
+integrated software that handles different directions of clinic workflows.
+
+Working:
+The main motive behind the working of the system is to simplify the appointment method and
+increase the flexibility of the appointment system by providing access to an easier way of
+communicating and appointing fixtures for the treatment of the patient and a less complex working
+environment for hospitals and clinics too.
+The interaction is made easy for both sides by providing a medium of support to let the
+expectations reflect as it is desired by the same. Along with this accommodation, terms of privacy
+are also taken into consideration with the user support including feedbacks and questions which
+would be deliberated for the sake of a satisfied user.
+The system works under a proper set of distinctions for both sides. The first one is on the patient’s
+side where the request of many patients are collected and assigned to the doctor.
+The other lies on the doctors and admin side of the appointment system where the availability of
+the doctor is kept into consideration before assigning it to the patient and after this procedure, the
+approval towards an appointment fixture is decided.
+HELPDESK AND SUPPORT HELP IN HANDLING THE RISKS AND ISSUES UNDER THE
+REQUEST OF USER, IT ENSURES THE VALIDITY AND LEGIT DATA IN ACCORDANCE.
+The Working uptill now will include the overview of workdesk for both patient and doctor,
+the login/register page,a covid section and information about the website alongwith the 
+description to it for the acknowledment desk.
+The design interface of the website is almost ready and is displayed in the coming screenshots with a 
+final finish it will be upgraded soon.
+
+Advantages over other Appointment Systems:
+The doctor appointment system to make appointments easy and reliable for a complex workplace
+being a hospital or clinic will bring a positive difference to the management with the extension to
+many more developments made in this system through regular innovative ideas to bring it to the
+finest with easier compatible and adaptive features for our users.
+This appointment system will contain all the basic needs of directing to the best nearest doctor
+with the means of providing access towards communication in different available languages which
+would make it easier for people to cooperate in any domestic region too.
+The system is already an improvised version of other appointment systems. Along with, this
+advantage the users will also receive the benefit of staff interaction to manage their availability
+according to their needs under reachable doctors.
+This will save a lot of time for both sides. 
+In this situation of hard times where many people are sufferig from the pandemic and even are looking 
+helpless in terms to get beds or hospitals, with respet to all the other system where this website will 
+hold an advantage to display features and a seperate section to covid displaying all the present cases, signs of symptoms,
+preventions and even help find hospitals nearby with a navigation API which would include a map for the closest hospitals
+ to make it way much convenient for the patient.
+Conclusion:
+The hospital/clinic's needs or emergencies are necessities that all citizens do require for a healthy
+life. The appointment system under hospitals/clinics is quite complex and to simplify it, this system
+will benefit all with a reliable and compatible service.
+It makes the day-to-day workplace of appointments under a hospital/clinics work smoother and a
+quick medium to cooperate for avoiding many unwanted hindrances.
+A reliable source to find and register for beds in the pandemic just by using it on home and avoiding the long procedures.
+If not available they can even chat with doctors and consult them for home treatment and the remedies they can try to get better at home.
+
+Innovation in model/design/solution:
